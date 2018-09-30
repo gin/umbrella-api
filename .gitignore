@@ -13,3 +13,6 @@
 
 # Dependencies
 vendor/
+
+# Database
+*.db
